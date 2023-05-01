@@ -10,7 +10,7 @@ BioSample:
   name: BioSample
   status: active
 ChemicalSubstance:
-  latest_publication: null
+  latest_publication: 0.5-DRAFT
   latest_release: 0.4-RELEASE
   name: ChemicalSubstance
   status: active
@@ -20,17 +20,17 @@ ComputationalTool:
   name: ComputationalTool
   status: active
 ComputationalWorkflow:
-  latest_publication: null
+  latest_publication: 1.1-DRAFT
   latest_release: 1.0-RELEASE
   name: ComputationalWorkflow
   status: active
 Course:
-  latest_publication: null
+  latest_publication: 1.1-DRAFT
   latest_release: 1.0-RELEASE
   name: Course
   status: active
 CourseInstance:
-  latest_publication: null
+  latest_publication: 1.1-DRAFT
   latest_release: 1.0-RELEASE
   name: CourseInstance
   status: active
@@ -66,7 +66,7 @@ FormalParameter:
   name: FormalParameter
   status: active
 Gene:
-  latest_publication: 1.1-DRAFT
+  latest_publication: 1.2-DRAFT
   latest_release: 1.0-RELEASE
   name: Gene
   status: active
@@ -81,7 +81,7 @@ LabProtocol:
   name: LabProtocol
   status: active
 MolecularEntity:
-  latest_publication: 0.6-DRAFT
+  latest_publication: 0.7-DRAFT
   latest_release: 0.5-RELEASE
   name: MolecularEntity
   status: active
@@ -132,7 +132,7 @@ RNA:
   name: RNA
   status: active
 Sample:
-  latest_publication: null
+  latest_publication: 0.3-DRAFT
   latest_release: 0.2-RELEASE-2018_11_10
   name: Sample
   status: active
@@ -162,7 +162,7 @@ Study:
   name: Study
   status: active
 Taxon:
-  latest_publication: 0.7-DRAFT
+  latest_publication: 0.8-DRAFT
   latest_release: 0.6-RELEASE
   name: Taxon
   status: active
